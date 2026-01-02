@@ -1,4 +1,4 @@
-React Shopping UI:
+<h1>React Shopping UI:<h1/>
 A React UI shopping interface built with Vite — showcasing a minimal setup for a shopping UI with fast refresh, ESLint, and Vite configuration.
 <br>
 Project Overview:
